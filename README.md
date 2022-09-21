@@ -1,2 +1,2 @@
 # VICISH backend 
-built in: NodeJs Express MySQL
+dev. with: NodeJs Express MySQL
